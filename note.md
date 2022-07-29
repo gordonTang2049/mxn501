@@ -26,3 +26,7 @@ https://blackboard.qut.edu.au/bbcswebdav/pid-10038559-dt-content-rid-58086587_1/
 
 Random Variables
 https://blackboard.qut.edu.au/bbcswebdav/pid-10038559-dt-content-rid-58086588_1/courses/MXN501_22se2/Spotlight%202%20random%20variables%282%29.mp4
+
+
+QUT readings
+https://blackboard.qut.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_165131_1&content_id=_10038506_1
